@@ -1,4 +1,13 @@
 
+npm install  
+npm run build
+
+
+
+npm i PATH_TO_OUR_PACKAGE
+
+
+
 
 ## Setep 1 . 
 
@@ -8,7 +17,6 @@
 
 ## Setep 2 . 
 
-In App service 
 
     constructor(private readonly gladiatorService: GladiatorService) {}
        async getHello() {
